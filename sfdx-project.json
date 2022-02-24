@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "creed-exception-handler",
+            "default": false,
+            "package": "Creed Exception Handler",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.1.0.NEXT"
+        }
+    ],
+    "name": "WebAppsIntegration",
+    "namespace": "creedint",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "Creed Exception Handler": "0Ho4x000000PBA9CAO",
+        "Creed Exception Handler@1.1.0-1": "04t4x000000AJjqAAG"
+    }
+}
