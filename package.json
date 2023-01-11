@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Salesforce App",
   "scripts": {
+    "create:scratch" : "./shell-scripts/create-scratch-org.sh",
     "lint": "eslint **/{aura,lwc}/**",
     "test": "npm run test:unit",
     "test:unit": "sfdx-lwc-jest",

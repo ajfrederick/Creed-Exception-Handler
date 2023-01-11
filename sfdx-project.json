@@ -1,19 +1,20 @@
 {
-    "packageDirectories": [
-        {
-            "path": "creed-exception-handler",
-            "default": false,
-            "package": "Creed Exception Handler",
-            "versionName": "ver 1.0",
-            "versionNumber": "1.1.0.NEXT"
-        }
-    ],
-    "name": "WebAppsIntegration",
-    "namespace": "creedint",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "52.0",
-    "packageAliases": {
-        "Creed Exception Handler": "0Ho4x000000PBA9CAO",
-        "Creed Exception Handler@1.1.0-1": "04t4x000000AJjqAAG"
+  "packageDirectories": [
+    {
+      "path": "creed-exception-handler",
+      "default": true,
+      "package": "Creed Exception Handler",
+      "versionName": "ver 1.2",
+      "versionNumber": "1.2.0.NEXT"
     }
+  ],
+  "name": "CreedExceptionHandler",
+  "namespace": "creedint",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0",
+  "packageAliases": {
+    "Creed Exception Handler": "0Ho4x000000PBA9CAO",
+    "Creed Exception Handler@1.1.0-1": "04t4x000000AJjqAAG",
+    "Creed Exception Handler@1.2.0-1": "04t4x0000006szqAAA"
+  }
 }
